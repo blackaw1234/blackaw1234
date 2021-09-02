@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blackaw1234
-- 👀 I’m interested in games and automation.
-- 🌱 I’m currently learning how to code using OpenGL in C++.
+- 👀 I’m interested in games, robotics, and cybersecurity.
+- 🌱 I’m currently learning how to use the C++ library OpenGL.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me: email blackaw1234@gmail.com
 
