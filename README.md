@@ -2,7 +2,9 @@
 - 👀 I’m interested in games, robotics, and cybersecurity.
 - 🌱 I’m currently learning how to use the C++ library OpenGL.
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me: email blackaw1234@gmail.com
+- 📫 How to reach me: 
+-     Email: blackaw1234@gmail.com
+-     Discord: Winnius the Wise#3418
 
 <!---
 blackaw1234/blackaw1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
